@@ -24,7 +24,7 @@
                 <sonar.host.url>
                     http://sonarqube:9000
                 </sonar.host.url>
-                <sonar.login>sqa_ef320da9fb85884ffef1c39543c558550a778d18</sonar.login>
+                <sonar.login>sqa_fdb833e5a579a4d1e2f66a16d6d84b0012e70fc0</sonar.login>
             </properties>
         </profile>
     </profiles>
