@@ -1,4 +1,4 @@
-/home/acoves/DockerLearning/spring-boot-app/src/main/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2Application.java
-/home/acoves/DockerLearning/spring-boot-app/src/main/java/com/bezkoder/spring/jpa/h2/model/Tutorial.java
-/home/acoves/DockerLearning/spring-boot-app/src/main/java/com/bezkoder/spring/jpa/h2/repository/TutorialRepository.java
-/home/acoves/DockerLearning/spring-boot-app/src/main/java/com/bezkoder/spring/jpa/h2/controller/TutorialController.java
+/home/acoves/DockerLearning/spring-boot-app-demo/src/main/java/com/bezkoder/spring/jpa/h2/repository/TutorialRepository.java
+/home/acoves/DockerLearning/spring-boot-app-demo/src/main/java/com/bezkoder/spring/jpa/h2/model/Tutorial.java
+/home/acoves/DockerLearning/spring-boot-app-demo/src/main/java/com/bezkoder/spring/jpa/h2/controller/TutorialController.java
+/home/acoves/DockerLearning/spring-boot-app-demo/src/main/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2Application.java
