@@ -7,7 +7,7 @@ pipeline{
 
    environment {
        registryCredential='docker-hub-credentials'
-       registryBackend = 'acoves-teralco/backend-demo'
+       registryBackend = 'lexlonewolf/backend-demo'
    }
 
    stages {
