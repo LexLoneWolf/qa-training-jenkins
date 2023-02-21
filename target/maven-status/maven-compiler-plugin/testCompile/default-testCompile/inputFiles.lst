@@ -1,1 +1,2 @@
-/home/acoves/DockerLearning/spring-boot-app-demo/src/test/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2ApplicationTests.java
+/home/acoves/Trainings/DockerLearning/demo-app/spring-boot-app-demo/src/test/java/com/bezkoder/spring/jpa/h2/repository/TutorialRepositoryTest.java
+/home/acoves/Trainings/DockerLearning/demo-app/spring-boot-app-demo/src/test/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2ApplicationTests.java
